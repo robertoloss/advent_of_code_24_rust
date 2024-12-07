@@ -1,0 +1,1 @@
+/Users/Roberto/Dropbox/CODING/Rust/advent_of_code_24/day-01/target/debug/part1: /Users/Roberto/Dropbox/CODING/Rust/advent_of_code_24/day-01/src/bin/part1.rs /Users/Roberto/Dropbox/CODING/Rust/advent_of_code_24/day-01/src/bin/test1.txt
