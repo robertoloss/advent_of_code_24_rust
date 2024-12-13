@@ -57,7 +57,6 @@ fn explore_plot(
     coord: (i64, i64),
     new_plot: &mut Plot,
 ) {
-    println!("Checking {:?} for {}", coord, c);
     let out_of_bounds = coord.0 < 0 || coord.1 < 0 || coord.0 > matrix[0].len() as i64 || coord.1 > matrix.len() as i64;
     if out_of_bounds { return }
 
